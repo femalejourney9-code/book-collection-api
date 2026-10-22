@@ -1,0 +1,13 @@
+{
+  "name": "book-collection-api",
+  "version": "1.0.0",
+  "description": "In-memory Book Collection REST API (Express)",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
